@@ -9,7 +9,7 @@ More learning ongoing
 
 App is available via Expo app. Scan the QR code with Expo app here
 
-[Link]("https://expo.dev/@vladis-c/React-Native-First-App?serviceType=classic&distribution=expo-go")
+[Link](https://expo.dev/@vladis-c/React-Native-First-App?serviceType=classic&distribution=expo-go)
 
 ### Commands
 To run the app on a local server use: 
